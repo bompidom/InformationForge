@@ -1,4 +1,4 @@
-# InformationForge
+# InformationForge - a Information Theory Calculator
 
 InformationForge is a toolkit rooted in Information Theory, providing essential functionalities for analyzing information sources, quantifying information in bits, and modeling communication channels.
 
